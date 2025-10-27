@@ -1,0 +1,9 @@
+# CMO - physical health certification
+[color=#5B97BC]█▄  █⠀[head=2]CHIEF MEDICAL OFFICER[/head]
+█  ▀█   [head=3]Physical Health Certification[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+
+This document officially certifies that the stamping Chief Medical Officer deems the designated employee physically fit to perform the duties required by their job title.

@@ -1,0 +1,10 @@
+# Psychologist - mental health leave form
+[color=#5B97BC]█▄  █⠀[head=2]PSYCHOLOGIST[/head]
+█  ▀█   [head=3]Mental Health Leave Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Diagnosis:[/bold] [DIAGNOSIS]
+
+This document officially certifies that the stamping Psychologist deems the designated employee mentally unfit to perform the duties required by their job title, and advises they be relieved of those duties until they have sufficiently recovered.

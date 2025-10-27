@@ -1,0 +1,6 @@
+# QM - official message
+[color=#B18644]█▄  █⠀[head=2]QUARTERMASTER[/head]
+█  ▀█   [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

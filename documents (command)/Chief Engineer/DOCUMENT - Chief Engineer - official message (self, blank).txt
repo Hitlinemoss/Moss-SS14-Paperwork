@@ -1,0 +1,6 @@
+# CE - official message
+[color=#F39F27]█▄  █⠀[head=2]CHIEF ENGINEER[/head]
+█  ▀█   [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

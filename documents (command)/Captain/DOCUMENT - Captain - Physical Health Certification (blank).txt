@@ -1,0 +1,9 @@
+# Captain - physical health certification
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Physical Health Certification[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+
+This document officially certifies that the stamping Captain deems the designated employee physically fit to perform the duties required by their job title.

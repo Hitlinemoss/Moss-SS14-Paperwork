@@ -1,0 +1,11 @@
+# Captain - execution order
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Execution Order[/head]
+────────────────────────────────────────[/color]
+
+[bold]Individual name:[/bold] [INDIVIDUAL_NAME]
+[bold]Criminal charges:[/bold] [CRIME_LIST]
+
+This document officially certifies that the stamping Captain has sentenced the designated individual to lawful execution, effective immediately, as punishment for the listed criminal charges. The designated individual is entitled to state their preferred method of execution, within reason. If no resonable preference is stated, execution is to be performed by Security staff via lethal firearm, with the corpse incinerated afterwards. Crew members are not to revive, clone, or borgify the designated individual under any circumstances.
+
+[italic]Failure to comply with this order constitutes a violation of Space Law code 2-00 (Failure to Comply) and may result in disciplinary action.[/italic]

@@ -1,0 +1,11 @@
+# QM - document revocation form
+[color=#B18644]█▄  █⠀[head=2]QUARTERMASTER[/head]
+█  ▀█   [head=3]Document Revocation Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Document to be revoked:[/bold] [FORM_NAME_AND_DESCRIPTION]
+[bold]Reason(s) for revocation:[/bold] [REASON]
+
+This document officially certifies that the stamping Quartermaster has elected to revoke the listed document, effective immediately. The designated employee is to relinquish to the Quartermaster (or other relevant member(s) of Command) any assets gained through the revoked document (whether gained directly or indirectly). Failure to relinquish these assets constitutes a violation of Space Law code 2-00 (Failure to Comply) in addition to any other criminal charges relevant to the assets' unauthorized posession.

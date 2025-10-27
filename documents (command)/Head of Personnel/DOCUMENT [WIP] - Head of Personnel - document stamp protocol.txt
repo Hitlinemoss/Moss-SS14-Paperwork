@@ -1,0 +1,39 @@
+# HoP - form stamp protocol
+[color=#1B6785]█▄  █⠀[head=2]HEAD OF PERSONNEL[/head]
+█  ▀█   [head=3]Document Stamp Protocol[/head]
+────────────────────────────────────────[/color]
+
+Documents will not be considered valid without stamp(s) from the appropriate member(s) of Command. The following is a list of which members of Command have the authority to approve which documents:
+
+[head=3]ALL RELEVANT DEPARTMENT HEAD(s)[/head]
+[bullet/]Access Permit
+[bullet/]Communications Permit
+[bullet/]Demotion Form
+[bullet/]Departmental Transfer Form
+[bullet/]Promotion Form
+
+[head=3]ANY RELEVANT DEPARTMENT HEAD(s)
+[bullet/]Document Revocation Form
+[bullet/]Employee Complaint Form
+[bullet/]Incident Report
+
+[head=3]CAPTAIN, OR COLLECTIVE COMMAND VOTE[/head]
+[bullet/]Acting Captain Form
+[bullet/]Acting Department Head Form
+[bullet/]Captain Dismissal Form
+[bullet/]Contraband Permit
+[bullet/]DNR Order
+[bullet/]Execution Order
+[bullet/]Executive Order
+
+[head=3]CHIEF ENGINEER[/head]
+[bullet/]Construction Permit
+
+[head=3]HEAD OF PERSONNEL + HEAD OF SECURITY[/head]
+[bullet/]Communications Replacement Permit
+[bullet/]EVA Permit
+[bullet/]Station ID Card Replacement Permit
+[bullet/]Visitor Permit
+
+[head=3]HEAD OF SECURITY[/head]
+[bullet/]Minor Contraband Permit

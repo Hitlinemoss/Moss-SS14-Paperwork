@@ -1,0 +1,1 @@
+This is a compilation of my personally-made SS14 documents. Many of these probably need some updates, and will definitely need to be updated once that PR for formfill paperwork gets merged upstream.

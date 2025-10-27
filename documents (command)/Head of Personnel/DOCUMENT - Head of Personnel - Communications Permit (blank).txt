@@ -1,0 +1,13 @@
+# HoP - communications permit
+[color=#1B6785]█▄  █⠀[head=2]HEAD OF PERSONNEL[/head]
+█  ▀█   [head=3]Communications Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]New communications frequencies:[/bold] [FREQUENCY_NAME]
+[bold]Reason(s):[/bold] [REASON]
+
+This document officially certifies that the designated employee is permitted by the stamping member(s) of Command to be granted one (1) radio encryption key for each of the communications frequencies listed above.
+
+[italic]The Head of Personnel, Captain, and/or other acting authority reserve the right to revoke this permit at their discretion. Unauthorized redistribution or duplication of a headset encryption key constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and will result in immediate revocation of permit and possible disciplinary action.[/italic]

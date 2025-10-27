@@ -1,0 +1,6 @@
+# Cargo - official memo
+[color=#B18644]█▄  █⠀[head=2]CARGO[/head]
+█  ▀█   [head=3]Official Memo[/head]
+────────────────────────────────────────[/color]
+
+[MEMO_CONTENT]

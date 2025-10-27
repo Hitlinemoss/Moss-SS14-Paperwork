@@ -1,0 +1,6 @@
+# Medical - misc. form
+[color=#5B97BC]█▄  █⠀[head=2]MEDICAL[/head]
+█  ▀█   [head=3]Miscellaneous Form[/head]
+────────────────────────────────────────[/color]
+
+[FORM_CONTENT]

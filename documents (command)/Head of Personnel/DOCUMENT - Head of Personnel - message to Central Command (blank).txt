@@ -1,0 +1,6 @@
+# HoP - message to CentComm
+[color=#1B6785]█▄  █⠀[head=2]HEAD OF PERSONNEL[/head]
+█  ▀█   [head=3]Message to Central Command[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

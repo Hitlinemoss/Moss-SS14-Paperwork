@@ -1,0 +1,6 @@
+# Engineering - official message
+[color=#F39F27]█▄  █⠀[head=2]ENGINEERING[/head]
+█  ▀█   [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

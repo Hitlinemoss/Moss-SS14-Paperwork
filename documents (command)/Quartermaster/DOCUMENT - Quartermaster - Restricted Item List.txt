@@ -1,0 +1,23 @@
+# Cargo - Restricted Item List
+[color=#B18644]█▄  █⠀[head=2]CARGO[/head]
+█  ▀█   [head=3]Restricted Item List[/head]
+────────────────────────────────────────[/color]
+
+The following items are restricted, and will not be distributed to personnel outside of specific departments without an Item Request Form stamped by the Quartermaster.
+
+[bullet/][bold]Alcohol[/bold] - Restricted to Bar staff
+[bullet/][bold]Animals[/bold] - Restricted to Kitchen staff
+[bullet/][bold]Chemicals/drugs[/bold] - Restricted to Medical staff
+[bullet/][bold]Electrical supplies[/bold] - Restricted to Engineering staff
+[bullet/][bold]Mindshield/tracking implants[/bold] - Restricted to Security staff
+[bullet/][bold]Plant seeds[/bold] - Restricted to Botany staff
+[bullet/][bold]Plasma (gaseous)[/bold] - Restricted to Engineering staff
+[bullet/][bold]Plasma (solid)[/bold] - Restricted to Engineering and Science staff
+[bullet/][bold]Plasteel[/bold] - Restricted to Engineering and Science staff
+[bullet/][bold]Rapid Construction Devices[/bold] - Restricted to Engineering staff
+[bullet/][bold]Uranium[/bold] - Restricted to Engineering and Science staff
+[bullet/][bold]Vending machine restocks[/bold] - Restricted to relevant department
+[bullet/][bold]Welding fuel[/bold] - Restricted to Engineering staff
+[bullet/][bold]Weapons/armor[/bold] - Restricted to Security
+
+[italic]Item Request Forms may include a "perpetual license", allowing for the named individual to request the same type of item again without requiring a new form. The Quartermaster may determine that stamped approval from one or more additional department heads is required depending on the nature of the request. Any department head that provides their stamp on an Item Request Form reserves the right to void that form at their discretion. The Captain, as the leading authority of the station, can provide their stamp on an Item Request Form or void an active Item Request Form in lieu of any department head, including the Quartermaster. In the event of an emergency, the Quartermaster, Captain, or other acting authority may elect to waive Item Request Form protocol.[/italic]

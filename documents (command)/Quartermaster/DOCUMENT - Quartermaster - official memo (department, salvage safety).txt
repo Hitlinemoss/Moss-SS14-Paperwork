@@ -1,0 +1,24 @@
+# Cargo - salvage safety memo
+[color=#B18644]█▄  █⠀[head=2]CARGO[/head]
+█  ▀█   [head=3]Official Memo[/head]
+────────────────────────────────────────[/color]
+
+In light of last Tuesday's incident, I feel it's important to remind our salvage teams of proper safety protocol to follow during their shifts.
+
+[bullet/][bold]NEVER leave the station alone.[/bold]
+This is the [italic]most[/italic] important item on this list. If you're too injured to walk or talk, you need a teammate with you who can carry you to safety, treat your injuries, and call for assistance.
+
+[bullet/][bold]ALWAYS maintain radio contact.[/bold] 
+If the station asks for a status update, answer as soon as you can. If you or one of your teammates get injured, call it in immediately. If you're lost, call in your current coordinates. We can't send you any help if we don't know you need it.
+
+[bullet/][bold]ALWAYS take note of station coordinates.[/bold]
+If you're lost in space, you need to know which direction the station is. Your PDA has a preinstalled note-keeper program, so remember to use it.
+
+[bullet/][bold]ALWAYS carry proper EVA gear.[/bold]
+At the bare minimum this means a hardsuit, an air tank, a GPS, magboots, and something you can push yourself around with (like a fire extinguisher). Additional items like grappling hooks, jetpacks, and portable mass scanners are ideal.
+
+[bullet/][bold]ALWAYS carry a ranged weapon.[/bold]
+There's all kinds of weird alien wildlife out in space, and most of it is incredibly hostile. You don't want to have to fight a space bear with nothing but a survival knife.
+
+[bullet/][bold]ALWAYS carry medical supplies with you.[/bold]
+Even basic topicals can be the difference between staying in one piece and bleeding out in the middle of nowhere. If you don't have medical supplies, either go to Medical to retrieve some, or (if we have the budget for it) buy them directly from a request console.

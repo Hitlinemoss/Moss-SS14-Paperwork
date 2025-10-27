@@ -1,0 +1,9 @@
+# Psychologist - mental health certification
+[color=#5B97BC]█▄  █⠀[head=2]PSYCHOLOGIST[/head]
+█  ▀█   [head=3]Mental Health Certification[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+
+This document officially certifies that the stamping Psychologist deems the designated employee mentally fit to perform the duties required by their job title.

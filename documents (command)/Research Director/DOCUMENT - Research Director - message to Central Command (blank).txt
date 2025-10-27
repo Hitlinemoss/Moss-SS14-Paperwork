@@ -1,0 +1,6 @@
+# RD - message to CentComm
+[color=#C96DBF]█▄  █⠀[head=2]RESEARCH DIRECTOR[/head]
+█  ▀█   [head=3]Message to Central Command[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

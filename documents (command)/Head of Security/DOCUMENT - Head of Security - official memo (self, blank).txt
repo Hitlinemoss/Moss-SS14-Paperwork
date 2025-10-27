@@ -1,0 +1,6 @@
+# HoS - official memo
+[color=#CB0000]█▄  █⠀[head=2]HEAD OF SECURITY[/head]
+█  ▀█   [head=3]Official Memo[/head]
+────────────────────────────────────────[/color]
+
+[MEMO_CONTENT]

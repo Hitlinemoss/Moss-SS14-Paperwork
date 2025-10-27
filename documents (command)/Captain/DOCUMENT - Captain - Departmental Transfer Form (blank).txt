@@ -1,0 +1,13 @@
+# Captain - departmental transfer form
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Departmental Transfer Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Former job title:[/bold] [JOB_TITLE]
+[bold]New job title:[/bold] [JOB_TITLE]
+[bold]Reason(s) for transfer:[/bold] [REASON]
+
+This document officially certifies that the designated employee is approved by the stamping Captain to transfer to a new department under the new job title listed above, effective immediately, with their ID access permissions and headset communication frequencies being adjusted as necessary.
+
+[italic]Unauthorized redistribution or duplication of a station ID card or headset encryption key constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and may result in disciplinary action.[/italic]

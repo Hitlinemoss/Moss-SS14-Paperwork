@@ -1,0 +1,13 @@
+# Command - contraband permit
+[color=#1B6785]█▄  █⠀[head=2]COMMAND[/head]
+█  ▀█   [head=3]Contraband Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Permitted minor/major contraband:[/bold] [CONTRABAND_NAME]
+[bold]Reason(s) for permit:[/bold] [REASON]
+
+This document officially certifies that the stamping members of Command have, in lieu of the Captain's approval, collectively voted to permit the designated employee to carry and use the items of minor and/or major contraband listed above.
+
+[italic]All stamping member(s) of Command reserve the right to revoke this permit at their discretion. Unauthorized redistribution or duplication of minor or major contraband constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and will result in immediate revocation of permit and possible disciplinary action.[/italic]

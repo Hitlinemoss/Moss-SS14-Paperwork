@@ -1,0 +1,7 @@
+[color=#000000]█▄  █⠀[head=2]HEADER[/head]
+█  ▀█   [head=3]Subheader[/head]
+────────────────────────────────────────[/color]
+
+[color=#FF2FFF] █   █  ⠀[head=2]CLOWN[/head]
+█▄▄█   [head=3]Subheader[/head]
+────────────────────────────────────────[/color]

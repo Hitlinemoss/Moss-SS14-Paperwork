@@ -1,0 +1,11 @@
+# QM - demotion form
+[color=#B18644]█▄  █⠀[head=2]QUARTERMASTER[/head]
+█  ▀█   [head=3]Demotion Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Former job title:[/bold] [JOB_TITLE]
+[bold]New job title:[/bold] [JOB_TITLE]
+[bold]Reason(s) for demotion:[/bold] [REASON]
+
+This document officially certifies that the stamping Quartermaster has elected to demote the designated employee from their former position, effective immediately. The designated employee is to be reassigned to the new position listed above for the remainder of the current shift, with their ID access permissions and headset communication frequencies being adjusted as necessary, and is to relinquish to the Quartermaster (or other relevant member(s) of Command) any assets forbidden to their new position. Failure to relinquish these assets constitutes a violation of Space Law code 2-00 (Failure to Comply) in addition to any other criminal charges relevant to the assets' unauthorized posession.

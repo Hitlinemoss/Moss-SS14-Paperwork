@@ -1,0 +1,13 @@
+# Captain - construction permit
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Construction Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Permitted construction:[/bold] [CONSTRUCT_NAME]
+[bold]Location:[/bold] [CONSTRUCT_LOCATION]
+
+This document officially certifies that the designated employee is permitted by the stamping Captain to perform the listed construction project.
+
+[italic]The Captain (or other acting authority) reserves the right to revoke this permit at their discretion. Unauthorized or disruptive construction constitutes violation of Space Law codes 1-03 (Vandalism) and/or 2-03 (Damage/Destruction of Property) and will result in immediate revocation of permit and possible disciplinary action.[/italic]

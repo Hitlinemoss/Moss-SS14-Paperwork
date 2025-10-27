@@ -1,0 +1,10 @@
+# HoP - incident report
+[color=#1B6785]█▄  █⠀[head=2]HEAD OF PERSONNEL[/head]
+█  ▀█   [head=3]Incident Report[/head]
+────────────────────────────────────────[/color]
+
+[bold]Time of incident:[/bold] [INCIDENT_TIME]
+
+[INCIDENT_DESCRIPTION]
+
+[italic]This document is to be delivered to Central Command by a member of Command to ensure that the listed incident is properly reviewed, adressed, and archived by Nanotrasen's internal affairs department.[/italic]

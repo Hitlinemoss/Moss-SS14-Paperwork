@@ -1,0 +1,6 @@
+# CE - message to CentComm
+[color=#F39F27]█▄  █⠀[head=2]CHIEF ENGINEER[/head]
+█  ▀█   [head=3]Message to Central Command[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

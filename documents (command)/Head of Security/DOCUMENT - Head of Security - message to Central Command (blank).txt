@@ -1,0 +1,6 @@
+# HoS - message to CentComm
+[color=#CB0000]█▄  █⠀[head=2]HEAD OF SECURITY[/head]
+█  ▀█   [head=3]Message to Central Command[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

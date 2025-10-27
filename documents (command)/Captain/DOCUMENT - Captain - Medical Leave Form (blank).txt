@@ -1,0 +1,10 @@
+# Captain - medical leave form
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Medical Leave Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Diagnosis:[/bold] [DIAGNOSIS]
+
+This document officially certifies that the stamping Captain deems the designated employee medically unfit to perform the duties required by their job title, and has elected to relieve them of those duties until they have sufficiently recovered.

@@ -1,0 +1,13 @@
+# HoS - minor contraband permit
+[color=#CB0000]█▄  █⠀[head=2]HEAD OF SECURITY[/head]
+█  ▀█   [head=3]Minor Contraband Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Permitted minor contraband:[/bold] [CONTRABAND_NAME]
+[bold]Reason(s) for permit:[/bold] [REASON]
+
+This document officially certifies that the designated employee is permitted by the stamping Head of Security to carry and use the items of minor contraband listed above.
+
+[italic]The Head of Security, Captain, and/or other acting authority reserve the right to revoke this permit at their discretion. Unauthorized redistribution or duplication of minor contraband constitutes accessory to violation of Space Law code 1-01 (Posession/Use of Minor Contraband) and will result in immediate revocation of permit and possible disciplinary action.[/italic]

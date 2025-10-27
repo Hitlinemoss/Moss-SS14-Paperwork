@@ -1,0 +1,6 @@
+# Command - message to CentComm
+[color=#1B6785]█▄  █⠀[head=2]COMMAND[/head]
+█  ▀█   [head=3]Message to Central Command[/head]
+────────────────────────────────────────[/color]
+
+The tesla used to power the station has breached containment and is causing severe structural damage. We are requesting immediate intervention by an Emergency Response Team in order to contain or destroy the tesla and preserve the lives of the station's remaining crew.

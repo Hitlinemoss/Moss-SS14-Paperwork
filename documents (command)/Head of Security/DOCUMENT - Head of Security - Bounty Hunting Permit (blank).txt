@@ -1,0 +1,28 @@
+# HoS - bounty hunting permit
+[color=#CB0000]█▄  █⠀[head=2]HEAD OF SECURITY[/head]
+█  ▀█   [head=3]Bounty Hunting Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Former job title:[/bold] [JOB_TITLE]
+
+This document officially certifies that the designated employee is permitted by the [bold]stamping Head of Security[/bold] to serve as a Civilian Bounty Hunter, working alongside the station's Security department to detain wanted and/or witnessed criminals.
+
+In the course of Civilian Bounty Hunter duties, the designated employee is entitled to the following privileges:
+[bullet/]ID access to the Brig
+[bullet/]Access to the Security communications frequency
+[bullet/]Authorization to wear a security hud (or equivalent)
+[bullet/]Authorization to wear body armor
+[bullet/]Authorization to carry and use nonlethal weaponry and restraints
+[bullet/]Discretionary authorization to carry and use lethal weaponry during emergency situations, as deemed suitable by the Warden or Head of Security
+
+The designated employee is [italic]not[/italic] an official member of the Security department and is not authorized to perform other activities restricted to Security staff, including the following:
+[bullet/]Creating, altering, approving, denying, or voiding Security forms of any kind
+[bullet/]Making purchases using the Station Defense Reserves [SEC] account
+[bullet/]Performing personnel searches
+[bullet/]Performing departmental searches
+[bullet/]Sentencing prisoners
+[bullet/]Releasing prisoners
+[bullet/]Subjecting prisoners to implantation
+
+[italic]The Head of Security, Captain, and/or other acting authority reserve the right to revoke this permit at their discretion. Unauthorized redistribution or duplication of authorized items constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and will result in immediate revocation of permit and possible disciplinary action.[/italic]

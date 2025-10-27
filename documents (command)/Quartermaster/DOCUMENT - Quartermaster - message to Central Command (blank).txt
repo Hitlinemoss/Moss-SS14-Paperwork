@@ -1,0 +1,6 @@
+# QM - message to CentComm
+[color=#B18644]█▄  █⠀[head=2]QUARTERMASTER[/head]
+█  ▀█   [head=3]Message to Central Command[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

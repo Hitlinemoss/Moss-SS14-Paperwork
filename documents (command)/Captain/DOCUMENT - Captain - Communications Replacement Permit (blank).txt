@@ -1,0 +1,12 @@
+# Captain - communications replacement permit
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Communications Replacement Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Reason(s) for communications replacement:[/bold] [REASON]
+
+This document officially certifies that the designated employee is permitted by the stamping Captain to be issued the standard radio encryption keys appropriate to their job title (listed above), as well as one (1) replacement radio headset if required.
+
+[italic]The Captain (or other acting authority) reserves the right to revoke this permit at their discretion. Unauthorized redistribution or duplication of a headset encryption key constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and will result in immediate revocation of permit and possible disciplinary action.[/italic]

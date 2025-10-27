@@ -1,0 +1,6 @@
+# HoS - official message
+[color=#CB0000]█▄  █⠀[head=2]HEAD OF SECURITY[/head]
+█  ▀█   [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

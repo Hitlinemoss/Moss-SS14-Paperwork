@@ -1,0 +1,14 @@
+# Command - acting department head form
+[color=#1B6785]█▄  █⠀[head=2]COMMAND[/head]
+█  ▀█   [head=3]Acting Department Head Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Former job title:[/bold] [JOB_TITLE]
+[bold]New job title:[/bold] [ACTING_DEPARTMENT_HEAD]
+
+This document officially certifies that the stamping members of Command have, in lieu of the Captain's approval, collectively voted to approve the designated employee to serve as the listed acting department head for the remainder of the current shift, with their ID access permissions and headset communication frequencies being adjusted as necessary. As this is a temporary position, the designated employee is not to be granted Brig or Command ID access permissions for the sake of station security.
+
+The designated employee is required to undergo mindshield implantation before being granted any assets permitted by their new job title (including the aforementioned ID access permissions and headset communication frequencies).
+
+[italic]Unauthorized redistribution or duplication of a station ID card or headset encryption key constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and may result in disciplinary action.[/italic]

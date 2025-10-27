@@ -1,0 +1,27 @@
+# HoP - General Request Form
+[color=#1B6785]█▄  █⠀[head=2]HEAD OF PERSONNEL[/head]
+█  ▀█   [head=3]General Request Form[/head]
+────────────────────────────────────────[/color]
+
+[head=2]Personal information[/head]
+Full name: [color=#888888][EMPLOYEE_NAME][/color]
+Current department: [color=#888888][DEPARTMENT_NAME][/color]
+Current job title: [color=#888888][JOB_TITLE][/color]
+
+[head=2]Nature of request[/head]
+([color=#888888] [/color]) Additional communications frequencies
+([color=#888888] [/color]) Modified ID accesses
+([color=#888888] [/color]) Replacement headset and/or radio encryption key(s)
+([color=#888888] [/color]) Replacement station ID card
+([color=#888888] [/color]) Replacement station PDA
+([color=#888888] [/color]) Request for promotion
+([color=#888888] [/color]) Request for demotion
+([color=#888888] [/color]) Request for departmental transfer
+([color=#888888] [/color]) Official complaint
+([color=#888888] [/color]) Visitor permit
+([color=#888888] [/color]) Other
+
+[head=3]Please describe the specifics of your request in detail.[/head]
+[color=#888888][DESCRIBE_REQUEST_HERE][/color]
+
+[italic]Unauthorized redistribution or duplication of a station ID card or headset encryption key constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and may result in disciplinary action. The Head of Personnel, Captain, and/or other acting authority reserve the right to revoke any issued permits at their discretion.[/italic]

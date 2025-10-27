@@ -1,0 +1,15 @@
+# official clown permit
+[color=#FF2FFF] █   █  ⠀[head=2]CLOWN[/head]
+█▄▄█   [head=3]Official Clown Permit[/head]
+────────────────────────────────────────[/color]
+
+[head=2]Clown name:[/head]
+[CLOWN_NAME]
+
+[head=2]Permit for:[/head]
+[PERMIT]
+
+[head=2]Reason for permit:[/head]
+[PERMIT_REASON]
+
+[italic]In the event that the Clown's actions constitute a capital offense under Space Law, the Clown consents to public execution by firing squad.[/italic]

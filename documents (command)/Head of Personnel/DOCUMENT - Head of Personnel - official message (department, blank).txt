@@ -1,0 +1,6 @@
+# Service - official message
+[color=#639137]█▄  █⠀[head=2]SERVICE[/head]
+█  ▀█   [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

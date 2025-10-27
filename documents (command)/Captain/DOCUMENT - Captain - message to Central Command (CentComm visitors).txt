@@ -1,0 +1,6 @@
+# Captain - message to CentComm
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Message to Central Command[/head]
+────────────────────────────────────────[/color]
+
+One or more individuals have boarded the station claiming to be Central Command employees performing an unscheduled visit. Please verify the identities of these individual(s). If we do not recieve confirmation of their identities within the next five minutes, we will be detaining them indefinitely on suspicion of being foreign invaders.

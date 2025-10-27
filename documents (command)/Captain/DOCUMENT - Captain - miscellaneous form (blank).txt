@@ -1,0 +1,6 @@
+# Captain - misc. form
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Miscellaneous Form[/head]
+────────────────────────────────────────[/color]
+
+[FORM_CONTENT]

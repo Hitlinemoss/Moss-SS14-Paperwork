@@ -1,0 +1,6 @@
+# RD - official message
+[color=#C96DBF]█▄  █⠀[head=2]RESEARCH DIRECTOR[/head]
+█  ▀█   [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

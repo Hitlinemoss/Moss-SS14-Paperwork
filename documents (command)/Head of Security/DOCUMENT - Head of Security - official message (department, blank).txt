@@ -1,0 +1,6 @@
+# Security - official message
+[color=#CB0000]█▄  █⠀[head=2]SECURITY[/head]
+█  ▀█   [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

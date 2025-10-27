@@ -1,0 +1,30 @@
+# AI - fax diagnostic
+[color=#5B97BC]█▄  █⠀[head=2]STATION AI[/head]
+█  ▀█   [head=3]Fax Diagnostic[/head]
+────────────────────────────────────────[/color]
+
+This document was printed as part of a standard diagnostic test of the station's long range fax machines. Please review the information below to verify these devices are functioning correctly. In the event of device malfunction, please contact the Engineering department for troubleshooting and/or the Cargo department to order replacement equipment.
+
+[mono]PRINTER_NETWORKING: OK
+FILE_UPLOAD: OK
+PRINT_METADATA: OK
+BLUESPACE_TRAY: OK
+BLUESPACE_TONER: OK
+DEVICE_FEED: OK
+DEVICE_LASER: OK[/mono]
+
+The quick brown fox jumps over the lazy dog.
+[italic]The quick brown fox jumps over the lazy dog.[/italic]
+[bold]The quick brown fox jumps over the lazy dog.[/bold]
+[bolditalic]The quick brown fox jumps over the lazy dog.[/bolditalic]
+
+[color=#000000]███ #000000 (Black)[/color]
+[color=#666666]███ #666666 (Dark grey)[/color]
+[color=#BFBFBF]███ #BFBFBF (Light grey)[/color]
+[color=#FFFFFF]███ #FFFFFF (White)[/color]
+[color=#FF0000]███ #FF0000 (Red)[/color]
+[color=#00FF00]███ #00FF00 (Green)[/color]
+[color=#0000FF]███ #0000FF (Blue)[/color]
+[color=#00FFFF]███ #00FFFF (Cyan)[/color]
+[color=#FFFF00]███ #FFFF00 (Yellow)[/color]
+[color=#FF00FF]███ #FF00FF (Magenta)[/color]

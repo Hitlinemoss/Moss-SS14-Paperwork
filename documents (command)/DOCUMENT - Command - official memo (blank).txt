@@ -1,0 +1,6 @@
+# Command - official memo
+[color=#1B6785]█▄  █⠀[head=2]COMMAND[/head]
+█  ▀█   [head=3]Official Memo[/head]
+────────────────────────────────────────[/color]
+
+[MEMO_CONTENT]

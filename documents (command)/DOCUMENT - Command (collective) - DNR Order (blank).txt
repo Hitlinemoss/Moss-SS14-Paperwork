@@ -1,0 +1,11 @@
+# Command - DNR order
+[color=#1B6785]█▄  █⠀[head=2]COMMAND[/head]
+█  ▀█   [head=3]Do Not Resuscitate Order[/head]
+────────────────────────────────────────[/color]
+
+[bold]Individual name:[/bold] [INDIVIDUAL_NAME]
+[bold]Reason(s) for DNR status:[/bold] [REASON_LIST]
+
+This document officially certifies that the [bold]stamping members of Command[/bold] have, in lieu of the Captain's approval, collectively voted to give the designated individual "Do Not Resuscitate" (DNR) status, effective immediately. The designated individual's corpse is to be incinerated at the earliest opportunity. Crew members are not to revive, clone, or borgify the designated individual under any circumstances.
+
+[italic]Failure to comply with this order constitutes a violation of Space Law code 2-00 (Failure to Comply) and may result in disciplinary action.[/italic]

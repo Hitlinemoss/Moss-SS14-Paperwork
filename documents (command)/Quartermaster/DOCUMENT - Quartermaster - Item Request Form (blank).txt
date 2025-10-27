@@ -1,0 +1,13 @@
+# Cargo - Item Request Form
+[color=#B18644]█▄  █⠀[head=2]CARGO[/head]
+█  ▀█   [head=3]Item Request Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Requested item(s):[/bold] [REQUESTED_ITEM]
+[bold]Reason(s) for request:[/bold] [REQUEST_REASON]
+[bold]Perpetual license?[/bold] [YES_OR_NO]
+[bold]Deliver to:[/bold] [DELIVERY_LOCATION]
+
+[italic]The Quartermaster, Captain, and/or other acting authority reserve the right to revoke this form at their discretion. Unauthorized redistribution of requested item(s) will result in immediate revocation of form and possible disciplinary action.[/italic]

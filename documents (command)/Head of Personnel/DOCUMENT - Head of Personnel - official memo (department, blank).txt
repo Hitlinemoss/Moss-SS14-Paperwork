@@ -1,0 +1,6 @@
+# Service - official memo
+[color=#639137]█▄  █⠀[head=2]SERVICE[/head]
+█  ▀█   [head=3]Official Memo[/head]
+────────────────────────────────────────[/color]
+
+[MEMO_CONTENT]

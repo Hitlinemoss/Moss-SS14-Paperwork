@@ -1,0 +1,6 @@
+# official clown message
+[color=#FF2FFF] █   █  ⠀[head=2]CLOWN[/head]
+█▄▄█   [head=3]Official Clown Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

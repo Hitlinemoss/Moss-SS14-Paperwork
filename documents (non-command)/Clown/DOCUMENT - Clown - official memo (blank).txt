@@ -1,0 +1,6 @@
+# official clown memo
+[color=#FF2FFF] █   █  ⠀[head=2]CLOWN[/head]
+█▄▄█   [head=3]Official Clown Memo[/head]
+────────────────────────────────────────[/color]
+
+[MEMO_CONTENT]

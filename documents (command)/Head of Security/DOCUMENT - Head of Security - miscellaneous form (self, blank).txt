@@ -1,0 +1,6 @@
+# HoS - misc. form
+[color=#CB0000]█▄  █⠀[head=2]HEAD OF SECURITY[/head]
+█  ▀█   [head=3]Miscellaneous Form[/head]
+────────────────────────────────────────[/color]
+
+[FORM_CONTENT]

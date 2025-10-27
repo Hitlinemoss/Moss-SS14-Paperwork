@@ -1,0 +1,11 @@
+# Captain - disability form
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Disability Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Disability(s):[/bold] [DISABILITY]
+[bold]Accomodation(s):[/bold]
+
+This document officially certifies that the stamping Captain has confirmed that the designated employee suffers from the listed disability(s), and should be provided with the listed accomodation(s) unless their condition sufficiently improves.

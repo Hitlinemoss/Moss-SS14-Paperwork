@@ -1,0 +1,12 @@
+# Command - employee complaint form
+[color=#1B6785]█▄  █⠀[head=2]COMMAND[/head]
+█  ▀█   [head=3]Employee Complaint Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Time of complaint:[/bold] [INCIDENT_TIME]
+
+[COMPLAINT_DESCRIPTION]
+
+[italic]This document is to be delivered to Central Command by a member of Command to ensure that the listed grievances are properly reviewed, adressed, and archived by Nanotrasen's internal affairs department.[/italic

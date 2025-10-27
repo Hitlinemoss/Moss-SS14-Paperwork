@@ -1,0 +1,12 @@
+# HoP - EVA permit
+[color=#1B6785]█▄  █⠀[head=2]HEAD OF PERSONNEL[/head]
+█  ▀█   [head=3]EVA Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Reason(s) for permit:[/bold] [REASON]
+
+This document officially certifies that the designated employee is permitted by the stamping member(s) of Command to be issued one (1) EVA suit, including helmet, for non-emergency use.
+
+[italic]All stamping member(s) of Command reserve the right to revoke this permit at their discretion.[/italic]

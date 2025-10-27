@@ -1,0 +1,29 @@
+# QM - supply checklist
+[color=#B18644]█▄  █⠀[head=2]QUARTERMASTER[/head]
+█  ▀█   [head=3]Supply Checklist[/head]
+────────────────────────────────────────[/color]
+
+The following supplies should be ordered using the Station Supply Budget \[SUP] as soon as possible, ideally as part of the shift's first round of purchases.
+
+[head=3]Basic materials[/head]
+[italic]Adjustments should be made based on existing inventory, the station's expected needs, and the effectiveness of the Salvage team.[/italic]
+Basic sheet crate x2 ($3320)
+Plasteel crate x1 ($1600)
+Solid plasma crate x1 ($1500)
+Total cost: $6240
+
+[head=3]Salvage equipment[/head]
+[italic]Adjustments should be made for large and/or nitrogen-breathing Salvage teams.[/italic]
+Emergency advanced kit x1 ($1200)
+Liquid oxygen canister x1 ($1000)
+Mini jetpack crate x1 ($750)
+Total cost: $2950
+
+[head=3]Emergency supplies[/head]
+Antimatter containment jar crate x1 ($2000)
+Emergency advanced kit x1 ($1200)
+Internals crate (large) x1 ($1200)
+Inflatable wall crate x2 ($1000)
+Total cost: $5600
+
+Combined cost of all purchases: $14,770

@@ -1,0 +1,6 @@
+# Medical - official message
+[color=#5B97BC]█▄  █⠀[head=2]MEDICAL[/head]
+█  ▀█   [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

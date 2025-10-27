@@ -1,0 +1,12 @@
+# Captain - station ID card replacement permit
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Station ID Card Replacement Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold] [EMPLOYEE_NAME]
+[bold]Job title:[/bold] [JOB_TITLE]
+[bold]Reason(s) for station ID card replacement:[/bold] [REASON]
+
+This document officially certifies that the designated employee is permitted by the stamping Captain to be issued a replacement station ID card with access permissions appropriate to their job title (listed above).
+
+[italic]The Captain (or other acting authority) reserves the right to revoke this permit at their discretion. Unauthorized redistribution or duplication of a station ID card constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and will result in immediate revocation of permit and possible disciplinary action.[/italic]

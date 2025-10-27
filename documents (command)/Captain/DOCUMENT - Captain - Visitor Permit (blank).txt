@@ -1,0 +1,10 @@
+# Captain - visitor permit
+[color=#1B6785]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Visitor Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Visitor name:[/bold] [VISITOR_NAME]
+
+This document officially certifies that the designated individual is permitted by the stamping Captain to be a Visitor aboard their entrusted station. They are to be provided a Visitor ID card and passenger headset for the duration of their visit. As a Visitor, the designated individual is considered to be a member of the station's crew, and is therefore protected by (and subject to) Space Law.
+
+[italic]The Captain (or other acting authority) reserves the right to revoke this permit at their discretion. Unauthorized redistribution or duplication of a station ID card or headset encryption key constitutes accessory to violation of Space Law codes 1-01 (Posession/Use of Minor Contraband) and/or 2-01 (Posession/Use of Major Contraband) and will result in immediate revocation of permit and possible disciplinary action.[/italic]
