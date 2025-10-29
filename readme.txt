@@ -1,1 +1,3 @@
 This is a compilation of my personally-made SS14 documents. Many of these probably need some updates, and will definitely need to be updated once that PR for formfill paperwork gets merged upstream.
+
+If you use these somewhere probably give me credit because I spent a lot of time making these and it'd be nice for that to get seen. You don't need to add my name to these ingame or anything though because that would kind of subtract from the verisimilitude of the experience. I mostly just mean if you use these as a basis for making other forms or port them as an official ingame thing downstream or something.
