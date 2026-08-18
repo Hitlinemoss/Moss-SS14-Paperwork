@@ -1,0 +1,17 @@
+# Captain - station ID card replacement form
+[color=#1B67A5]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Station ID Card Replacement Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Job title:[/bold]
+(JOB_TITLE)
+
+[bold]Reason(s) for station ID card replacement:[/bold]
+(REASON)
+
+This document officially certifies that the designated employee is approved by the stamping Captain to be issued a replacement station ID card with access permissions appropriate to their job title (listed above).
+
+[italic]Unauthorized distribution of a station ID card is grounds for disciplinary action, and may result in criminal charges if applicable.[/italic]

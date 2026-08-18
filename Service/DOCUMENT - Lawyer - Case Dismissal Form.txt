@@ -1,0 +1,20 @@
+# case dismissal form
+[head=2]CASE DISMISSAL FORM[/head]
+────────────────────────────────────────
+
+[bold]Prosecution:[/bold]
+(PROSECUTION)
+
+[bold]Defense:[/bold]
+(DEFENSE)
+
+[bold]Charge(s) against the defense:[/bold]
+(CHARGE)
+
+[bold]Sought recompense:[/bold]
+(RECOMPENSE)
+
+[bold]Reason(s) for dismissal:[/bold]
+(REASON)
+
+This document serves as a formal record that the designated legal case has been officially dismissed. The defense is not required to appear in court or provide recompense for the listed charges.

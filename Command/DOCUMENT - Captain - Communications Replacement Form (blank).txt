@@ -1,0 +1,17 @@
+# Captain - communications replacement form
+[color=#1B67A5]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Communications Replacement Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Job title:[/bold]
+(JOB_TITLE)
+
+[bold]Reason(s) for communications replacement:[/bold]
+(REASON)
+
+This document officially certifies that the designated employee is approved by the stamping Captain to be issued the standard radio encryption keys appropriate to their job title (listed above), as well as one (1) replacement radio headset if required.
+
+[italic]Unauthorized distribution of a radio encryption key is grounds for disciplinary action, and may result in criminal charges if applicable.[/italic]

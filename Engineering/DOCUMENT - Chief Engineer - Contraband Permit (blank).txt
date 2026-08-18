@@ -1,0 +1,20 @@
+# CE - engineering contraband permit
+[color=#F39F27]█▄  █⠀[head=2]CHIEF ENGINEER[/head]
+█  ▀█   [head=3]Engineering Contraband Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Job title:[/bold]
+(JOB_TITLE)
+
+[bold]Permitted item(s):[/bold]
+(CONTRABAND_NAME)
+
+[bold]Reason(s) for permit:[/bold]
+(REASON)
+
+This document officially certifies that the designated employee is permitted by the stamping Chief Engineer to carry and use the items of Engineering-restricted minor contraband listed above.
+
+[italic]The Chief Engineer, Head of Security, Captain, and/or other acting authority reserve the right to revoke this permit at their discretion. Unauthorized distribution of contraband is grounds for immediate revocation of this permit, and may result in criminal charges if applicable.[/italic]

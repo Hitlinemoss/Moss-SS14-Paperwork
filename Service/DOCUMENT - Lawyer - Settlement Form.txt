@@ -1,0 +1,17 @@
+# settlement form
+[head=2]SETTLEMENT FORM[/head]
+────────────────────────────────────────
+
+[bold]Prosecution:[/bold]
+(PROSECUTION)
+
+[bold]Defense:[/bold]
+(DEFENSE)
+
+[bold]Charge(s) against the defense:[/bold]
+(CHARGE)
+
+[bold]Agreed-upon settlement:[/bold]
+(SETTLEMENT)
+
+This document serves as a formal record of a settlement for the designated legal case. The defense is to provide the agreed-upon settlement to the prosecution at the earliest reasonable opportunity. Failure to provide the agreed-upon settlement in full may result in further legal action.

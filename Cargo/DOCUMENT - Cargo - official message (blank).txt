@@ -1,0 +1,5 @@
+# Cargo - official message
+[color=#B18644]█▄  █⠀[head=2]CARGO[/head]
+█  ▀█   [head=3]Official message[/head]
+────────────────────────────────────────[/color]
+

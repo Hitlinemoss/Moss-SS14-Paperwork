@@ -1,0 +1,11 @@
+# restraining order
+[head=2]RESTRAINING ORDER[/head]
+────────────────────────────────────────
+
+[bold]Applicant:[/bold]
+(APPLICANT)
+
+[bold]Respondent:[/bold]
+(RESPONDENT)
+
+This document serves as a formal record of a restraining order by the applicant against the respondent. The respondent is not to contact, harass, threaten, abuse, follow, stalk, or assault the applicant, ansd is to stay a minimum of 50 meters away at all times. Failure to uphold the terms of this form may result in further legal action.

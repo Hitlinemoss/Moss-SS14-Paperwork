@@ -1,0 +1,3 @@
+[color=#1B67A5]█▄  █⠀[head=2]COMMAND[/head]
+█  ▀█   [head=3]Subheader[/head]
+────────────────────────────────────────[/color]

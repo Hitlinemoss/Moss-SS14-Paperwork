@@ -1,0 +1,19 @@
+# Command - acting captain form
+[color=#1B67A5]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Acting Captain Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Former job title:[/bold]
+(JOB_TITLE)
+
+[bold]Reason(s) for selection:[/bold]
+(REASON)
+
+This document officially certifies that the designated employee is approved by the stamping Captain to serve as Acting Captain for the remainder of the current shift, with their ID access permissions and headset communication frequencies being adjusted as necessary.
+
+Due to the highly sensitive nature of their new position, the designated employee is required to undergo mindshield implantation before being granted any assets permitted by their new job title (including the aforementioned ID access permissions and headset communication frequencies).
+
+[italic]Unauthorized distribution of a station ID card or radio encryption key is grounds for disciplinary action, and may result in criminal charges if applicable. [/italic]

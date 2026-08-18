@@ -1,0 +1,6 @@
+# Wizard - official message
+[color=#3F36CB][bold]\⠀⠀/\⠀  / [/bold] [head=2]SPACE WIZARDS FEDERATION[/head]
+[bold]⠀\/⠀⠀\/⠀[/bold] [head=3]Official Message[/head]
+────────────────────────────────────────[/color]
+
+[MESSAGE_CONTENT]

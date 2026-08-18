@@ -1,6 +1,0 @@
-# Engineering - official memo
-[color=#F39F27]█▄  █⠀[head=2]ENGINEERING[/head]
-█  ▀█   [head=3]Official Memo[/head]
-────────────────────────────────────────[/color]
-
-[MEMO_CONTENT]

@@ -1,0 +1,17 @@
+# court summons
+[head=2]COURT SUMMONS[/head]
+────────────────────────────────────────
+
+[bold]Prosecution:[/bold]
+(PROSECUTION)
+
+[bold]Defense:[/bold]
+(DEFENSE)
+
+[bold]Charge(s) against the defense:[/bold]
+(CHARGE)
+
+[bold]Sought recompense:[/bold]
+(RECOMPENSE)
+
+This document serves as a formal court summons for the designated legal case. The prosecution, defense, and at least one member of Security are expected to appear for trial at the earliest reasonable opportunity. Failure to appear for trial may result in further legal action. This case may be dismissed at the defense's discretion, including if a settlement is agreed upon with the prosecution outside of court.

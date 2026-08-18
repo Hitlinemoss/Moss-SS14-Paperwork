@@ -1,0 +1,18 @@
+# Medical - complaint form
+[color=#5B97BC]█▄  █⠀[head=2]MEDICAL[/head]
+█  ▀█   [head=3]Complaint Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Name:[/bold]
+(NAME)
+
+[bold]Job title:[/bold]
+(JOB_TITLE)
+
+[bold]Time of complaint:[/bold]
+(REPORT_TIME)
+
+[bold]Description of complaint:[/bold]
+(COMPLAINT_DESCRIPTION)
+
+[italic]This document is to be delivered to Central Command to ensure that the listed grievances are properly reviewed, adressed, and archived by a member of Nanotrasen's internal affairs department.[/italic]

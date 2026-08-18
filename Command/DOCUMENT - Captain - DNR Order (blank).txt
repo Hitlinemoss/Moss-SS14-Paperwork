@@ -1,0 +1,14 @@
+# Captain - DNR order
+[color=#1B67A5]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Do Not Resuscitate Order[/head]
+────────────────────────────────────────[/color]
+
+[bold]Individual name:[/bold]
+(DECEASED_NAME)
+
+[bold]Reason(s) for DNR status:[/bold]
+(REASON)
+
+This document officially certifies that the stamping Captain has given the designated individual "Do Not Resuscitate" (DNR) status, effective immediately. The designated individual's corpse is to be incinerated (or otherwise permanently disposed of) at the earliest opportunity. Crew members are not to revive, clone, or borgify the designated individual under any circumstances.
+
+[italic]Failure to comply with this order is grounds for disciplinary action, and may result in criminal charges if applicable.[/italic]

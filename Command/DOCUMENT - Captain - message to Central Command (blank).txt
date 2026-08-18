@@ -1,0 +1,5 @@
+# Captain - message to CentComm
+[color=#1B67A5]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Message to Central Command[/head]
+────────────────────────────────────────[/color]
+

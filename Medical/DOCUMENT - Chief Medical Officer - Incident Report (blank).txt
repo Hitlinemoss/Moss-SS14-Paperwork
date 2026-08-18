@@ -1,0 +1,12 @@
+# CMO - incident report
+[color=#5B97BC]█▄  █⠀[head=2]CHIEF MEDICAL OFFICER[/head]
+█  ▀█   [head=3]Incident Report[/head]
+────────────────────────────────────────[/color]
+
+[bold]Time of report:[/bold]
+(REPORT_TIME)
+
+[bold]Description of incident:[/bold]
+(INCIDENT_DESCRIPTION)
+
+[italic]This document is to be delivered to Central Command to be reviewed, adressed, and archived by a member of Nanotrasen's internal affairs department.[/italic]

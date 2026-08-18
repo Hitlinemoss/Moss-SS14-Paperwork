@@ -1,0 +1,20 @@
+# HoP - service contraband permit
+[color=#1B67A5]█▄  █⠀[head=2]HEAD OF PERSONNEL[/head]
+█  ▀█   [head=3]Service Contraband Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Job title:[/bold]
+(JOB_TITLE)
+
+[bold]Permitted item(s):[/bold]
+(CONTRABAND_NAME)
+
+[bold]Reason(s) for permit:[/bold]
+(REASON)
+
+This document officially certifies that the designated employee is permitted by the stamping Head of Personnel to carry and use the items of Service-restricted minor contraband listed above.
+
+[italic]The Head of Personnel, Head of Security, Captain, and/or other acting authority reserve the right to revoke this permit at their discretion. Unauthorized distribution of contraband is grounds for immediate revocation of this permit, and may result in criminal charges if applicable.[/italic]

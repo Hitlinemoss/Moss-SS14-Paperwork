@@ -1,0 +1,20 @@
+# CMO - medical contraband permit
+[color=#5B97BC]█▄  █⠀[head=2]CHIEF MEDICAL OFFICER[/head]
+█  ▀█   [head=3]Medical Contraband Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Job title:[/bold]
+(JOB_TITLE)
+
+[bold]Permitted item(s):[/bold]
+(CONTRABAND_NAME)
+
+[bold]Reason(s) for permit:[/bold]
+(REASON)
+
+This document officially certifies that the designated employee is permitted by the stamping Chief Medical Officer to carry and use the items of Medical-restricted minor contraband listed above.
+
+[italic]The Chief Medical Officer, Head of Security, Captain, and/or other acting authority reserve the right to revoke this permit at their discretion. Unauthorized distribution of contraband is grounds for immediate revocation of this permit, and may result in criminal charges if applicable.[/italic]

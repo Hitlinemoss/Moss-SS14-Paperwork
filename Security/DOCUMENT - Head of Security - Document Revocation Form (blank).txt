@@ -1,0 +1,18 @@
+# HoS - document revocation form
+[color=#CB0000]█▄  █⠀[head=2]HEAD OF SECURITY[/head]
+█  ▀█   [head=3]Document Revocation Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Job title:[/bold]
+(JOB_TITLE)
+
+[bold]Document to be revoked:[/bold]
+(FORM_NAME_AND_DESCRIPTION)
+
+[bold]Reason(s) for revocation:[/bold]
+(REASON)
+
+This document officially certifies that the stamping Head of Security has elected to revoke the listed document, effective immediately. The designated employee is to relinquish any assets gained through the revoked document (whether gained directly or indirectly). Failure to relinquish these assets may result in criminal charges if applicable.

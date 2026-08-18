@@ -1,0 +1,12 @@
+# HoS - incident report
+[color=#CB0000]█▄  █⠀[head=2]HEAD OF SECURITY[/head]
+█  ▀█   [head=3]Incident Report[/head]
+────────────────────────────────────────[/color]
+
+[bold]Time of report:[/bold]
+(REPORT_TIME)
+
+[bold]Description of incident:[/bold]
+(INCIDENT_DESCRIPTION)
+
+[italic]This document is to be delivered to Central Command to be reviewed, adressed, and archived by a member of Nanotrasen's internal affairs department.[/italic]

@@ -1,0 +1,10 @@
+# Captain - executive order
+[color=#1B67A5]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Executive Order[/head]
+────────────────────────────────────────[/color]
+
+This document officially certifies that the stamping Captain has elected to enact the following executive order(s) on their entrusted station for the remainder of the current shift, effective immediately:
+
+[bullet/](ORDER_CONTENT)
+
+[italic]Failure to comply with these order(s) is grounds for disciplinary action, and may result in criminal charges if applicable.[/italic]

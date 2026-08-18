@@ -1,0 +1,14 @@
+# Cargo - salvage contraband permit
+[color=#B18644]█▄  █⠀[head=2]CARGO[/head]
+█  ▀█   [head=3]Salvage Contraband Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Permitted item(s):[/bold]
+(CONTRABAND_NAME)
+
+[bold]Reason(s) for permit:[/bold]
+(REASON)
+
+This document officially certifies that the Salvage department is permitted by the stamping member(s) of Command to carry and use the items of contraband listed above for the purpose of Salvage duties.
+
+[italic]All stamping member(s) of Command, as well as the Quartermaster and Captain (or other acting authority), reserve the right to revoke this permit at their discretion. Unauthorized distribution of contraband is grounds for immediate revocation of this permit, and may result in criminal charges if applicable.[/italic]

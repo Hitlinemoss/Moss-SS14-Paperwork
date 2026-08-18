@@ -1,0 +1,17 @@
+# Captain - construction permit
+[color=#1B67A5]█▄  █⠀[head=2]CAPTAIN[/head]
+█  ▀█   [head=3]Construction Permit[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Job title:[/bold]
+(JOB_TITLE)
+
+[bold]Permitted construction:[/bold]
+(CONSTRUCT_DESCRIPTION_AND_LOCATION)
+
+This document officially certifies that the designated employee is permitted by the stamping Captain to perform the listed construction project.
+
+[italic]The Captain (or other acting authority) reserves the right to revoke this permit at their discretion. Unauthorized, disruptive, or dangerous construction is grounds for immediate revocation of this permit, and may result in criminal charges if applicable.[/italic]
