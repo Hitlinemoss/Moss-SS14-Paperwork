@@ -1,0 +1,17 @@
+# CMO - medical prescription
+[color=#5B97BC]█▄  █⠀[head=2]CHIEF MEDICAL OFFICER[/head]
+█  ▀█   [head=3]Medical Prescription[/head]
+────────────────────────────────────────[/color]
+
+[bold]Patient name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Prescription:[/bold]
+(DIAGNOSIS)
+
+[bold]Reason(s) for prescription:[/bold]
+(REASON)
+
+This document officially certifies that the stamping Chief Medical Officer has issued the designated patient the listed prescription.
+
+[italic]The Chief Medical Officer, Captain, and/or other acting authority reserve the right to revoke this prescription at their discretion. Unauthorized distribution of prescribed goods is grounds for immediate revocation of this prescription, and may result in criminal charges if applicable.[/italic]
