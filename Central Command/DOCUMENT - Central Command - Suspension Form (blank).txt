@@ -1,0 +1,17 @@
+# CentComm - suspension form
+[color=#006600]█▄  █⠀[head=2]CENTRAL COMMAND[/head]
+█  ▀█   [head=3]Suspension Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Employee name:[/bold]
+(EMPLOYEE_NAME)
+
+[bold]Former job title:[/bold]
+(JOB_TITLE)
+
+[bold]Reason(s) for suspension:[/bold]
+(REASON)
+
+This document officially certifies that Central Command has elected to suspend the designated employee from their former department, effective immediately. The designated employee is to be reassigned to the role of Passenger, with their ID access permissions and headset communication frequencies being adjusted as necessary, and is to return to Central Command at the end of the current shift to await a detailed investigation into this shift's events by Nanotrasen's internal affairs department.
+
+The designated employee is to relinquish any assets forbidden to their new position. Failure to relinquish these assets may result in criminal charges if applicable.

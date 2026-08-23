@@ -1,0 +1,12 @@
+# CE - CentComm assistance request form
+[color=#F39F27]█▄  █⠀[head=2]CHIEF ENGINEER[/head]
+█  ▀█   [head=3]Central Command Assistance Request Form[/head]
+────────────────────────────────────────[/color]
+
+[bold]Requested assistance:[/bold]
+(REQUEST)
+
+[bold]Reason(s) for request:[/bold]
+(REASON)
+
+This document serves as an official request from the stamping Chief Engineer for Central Command to provide the station with the described form of assistance.

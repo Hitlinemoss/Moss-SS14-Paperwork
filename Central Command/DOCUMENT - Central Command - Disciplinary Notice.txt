@@ -1,0 +1,12 @@
+# CentComm - Disciplinary Notice
+[color=#006600]█▄  █⠀[head=2]CENTRAL COMMAND[/head]
+█  ▀█   [head=3]Disciplinary Notice[/head]
+────────────────────────────────────────[/color]
+
+[bold]Unresolved issue(s):[/bold]
+(REASON)
+
+[bold]Measure(s) to be taken:[/bold]
+(MEASURES)
+
+This document serves as an official warning from Central Command concerning one or more unresolved issues on this station. If these issue(s) are not resolved promptly, the listed measures will be taken against this station.
